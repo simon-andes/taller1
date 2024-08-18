@@ -1,0 +1,13 @@
+tipo:Corriente:16000:15.0
+tipo:Diesel:10000:20.0
+tipo:Biodiesel:26000:30.0
+tipo:Especial:30000:10.0
+surtidor:Nicolas:Corriente:0.0:Diesel:0.0:Biodiesel:0.0:Especial:0.0
+surtidor:Nicolas:Corriente:0.0:Diesel:0.0:Biodiesel:0.0:Especial:0.0
+surtidor:Andres:Corriente:0.0:Diesel:0.0:Biodiesel:0.0:Especial:0.0
+surtidor:Marco:Corriente:0.0:Diesel:0.0:Biodiesel:0.0:Especial:0.0
+empleado:Marco:0
+empleado:Andres:0
+empleado:Felipe:0
+empleado:Lucas:0
+empleado:Nicolas:0
